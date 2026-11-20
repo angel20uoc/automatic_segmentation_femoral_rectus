@@ -41,11 +41,8 @@ Métricas globales de segmentación de los tres modelos (memoria del TFM, Cuadro
 
 - **Parámetros morfométricos en la cohorte de 4.500 imágenes:** área media entre 4,47 y 4,62 cm² y grosor medio entre 1,86 y 1,94 cm, según el modelo.
 
-<!--
-Ejemplos visuales: sube las figuras a docs/figures/ y descomenta estas líneas.
-![Comparación máscara manual vs. modelos](docs/figures/comparacion_mascaras.png)
-![Dice por centro y modelo](docs/figures/dice_por_centro.png)
--->
+![Comparación entre máscara manual y máscaras generadas](docs/figures/comparacion_mascaras.png)
+![Dice por centro y modelo](docs/figures/dice_heatmap_centros.png)
 
 ---
 
